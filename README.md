@@ -1,17 +1,1 @@
-# Face-Recogntion-PyQt
-
-Watch the full tutorial here: http://bit.ly/facepyqt
-
-## Learn more AI and OpenCV GUI Design?
-
-Enroll in our YOLOv4 PyQt Course here : 
-https://www.augmentedstartups.com/yolov4-course
-
-
-## To Install the Facial Recognition Libraries Dependencies
-
-You will need the following:
-
-```pip install dlib==19.18.0```
-
-```pip install face-recognition```
+# Face-Recogntion-PyQt##Applications :  ''' * Face recognition makes it easier to track down burglars, thieves and trespassers. The technology is capable of analyzing the feed private and public CCTV camera networks.     * The technology is not limited to tracking down criminals. For instance, it could also make it easier to find missing children and seniors.      * Face recognition could make security checkpoints at airports less intrusive to passengers.'''## Libraries Dependencies```pip install dlib==19.18.0``````pip install face-recognition```
